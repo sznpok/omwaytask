@@ -1,0 +1,4 @@
+enum RequestEnum {
+  post,
+  get,
+}
